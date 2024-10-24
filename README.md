@@ -1,4 +1,4 @@
-
+Check the project here : https://github.com/flo7110/IMDB-TOP1000-Series-TV/blob/main/imdb.ipynb
 # IMDb Data Analysis Project
 
 This project is part of my portfolio to showcase my skills in data analysis and visualization using Python. The notebook `imdb.ipynb` contains a detailed analysis of an IMDb dataset, focusing on the exploration of movie ratings, genres, and other factors.
